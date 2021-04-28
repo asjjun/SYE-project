@@ -8,6 +8,8 @@
 <img src="https://img.shields.io/badge/android-v4.0.1-blue">
 <br>
 <img src="https://img.shields.io/badge/Tomcat-v9.0-blue">
+<img src="https://img.shields.io/badge/eclipse-v4.17.0-blue">
+<img src="https://img.shields.io/badge/Mysql-v8.0.21-blue">
 
 
  
