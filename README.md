@@ -1,7 +1,13 @@
 # SYE-project
+<p align="center">
+<img width="500px" src="https://user-images.githubusercontent.com/29851990/116390494-0c7ce700-a859-11eb-8b62-70d5cb49a922.PNG">
+<br>
+
 ![issue badge](https://img.shields.io/badge/license-mit-green)
 ![issue badge](https://img.shields.io/github/issues/hongjin4790/SYE-project)
 ![issue badge](https://img.shields.io/badge/tag-v1.0.0-blue)
+
+</p>
 ## 1. 프로젝트 소개
  > SYE는 ShareYourEnvironment 환경문제를 공유하고, 직접 실천과 지원을하고, 공공거래장부를 통해 서로를 보안하는 어플입니다.
  
@@ -39,6 +45,8 @@
 목차는 계기, 구성, 소개, 기대효과로 이루어져있습니다.
 
 먼저 하나의 에피소드로 비 때문에 수문을 급하게 개방했고. 그로인해 댐안에 살고있던 민물고기들이 댐 밖으로 밀려나 바다의 염분에 적응하지 못해 집단 폐사한 사건입니다.
+![logo2](https://user-images.githubusercontent.com/29851990/116390483-0850c980-a859-11eb-997c-af5474456f45.PNG)
+![logo2](https://user-images.githubusercontent.com/29851990/116390490-0ab32380-a859-11eb-9a3c-cd5ef5f75cc5.PNG)
 
 바로 다음 에피소드로 갯벌에 타이어를 무단폐기했고 그로인해 타이어가 은신처인줄알고 들어온 민물의 게들이 물이 빠지고 난후 타이어에 갇혀 다량으로 죽은 사건입니다.
 
