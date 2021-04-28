@@ -1,5 +1,4 @@
 # SYE-project
-<img src="https://img.shields.io/github/license/connect-foundation/2019-08">
 [![GitHub issues](https://img.shields.io/github/issues/hongjin4790/SYE-project)](https://github.com/hongjin4790/SYE-project/issues)
 
 ## 1. 프로젝트 소개
