@@ -4,7 +4,8 @@
 <br>
 <img src="https://img.shields.io/badge/license-mit-green">
 <img src="https://img.shields.io/github/issues/hongjin4790/SYE-project">
-<img src="https://https://img.shields.io/badge/tag-v1.0.0-blue">
+<img src="https://img.shields.io/badge/tag-v1.0.0-blue">
+ 
 <br>
 </p>
 ## 1. 프로젝트 소개
