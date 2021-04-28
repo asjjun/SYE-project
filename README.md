@@ -2,11 +2,10 @@
 <p align="center">
 <img width="500px" src="https://user-images.githubusercontent.com/29851990/116390494-0c7ce700-a859-11eb-8b62-70d5cb49a922.PNG">
 <br>
-
-![issue badge](https://img.shields.io/badge/license-mit-green)
-![issue badge](https://img.shields.io/github/issues/hongjin4790/SYE-project)
-![issue badge](https://img.shields.io/badge/tag-v1.0.0-blue)
-
+<img src="https://img.shields.io/badge/license-mit-green">
+<img src="https://img.shields.io/github/issues/hongjin4790/SYE-project">
+<img src="https://https://img.shields.io/badge/tag-v1.0.0-blue">
+<br>
 </p>
 ## 1. 프로젝트 소개
  > SYE는 ShareYourEnvironment 환경문제를 공유하고, 직접 실천과 지원을하고, 공공거래장부를 통해 서로를 보안하는 어플입니다.
