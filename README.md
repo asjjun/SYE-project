@@ -28,7 +28,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#본문-내용">본문 내용</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -75,7 +75,7 @@
       - (오픈소스) AWS를 통해 사진 업로드와 불러오는 과정의 코드 가져옴
       - (오류) 가끔 AWS의 고유문제로 사진이 안불러와질 때가 있음
 
-## 3. 
+## 본문 내용 
 
 
 목차는 계기, 구성, 소개, 기대효과로 이루어져있습니다.
