@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/license-mit-green">
 <img src="https://img.shields.io/github/issues/hongjin4790/SYE-project">
 <img src="https://img.shields.io/badge/tag-v1.0.0-blue">
-<br><br>
+<br>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
