@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/fundingMoneyText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"
+            android:hint="펀딩할 금액 입력"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/user_money_view"
+            android:layout_width="215dp"
+            android:layout_height="26dp"
+            android:gravity="center"
+            android:layout_marginBottom="20dp"
+            android:text="현재잔액 :"
+            android:textSize="18sp" />
+
+
+        <TableLayout
+            android:id="@+id/table"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toTopOf="@+id/fundbutton"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/user_money_view">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/oneButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:foregroundTint="#673AB7"
+                    android:shadowColor="#009688"
+                    android:text="1"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/twoButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="2"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/threeButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="3"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/fourButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="4"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/fiveButtton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="5"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/sixButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="6"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/sevenButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="7"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/eightButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="8"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/nineButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="9"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:id="@+id/cancelButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="취소"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp"
+                    android:visibility="invisible" />
+
+                <Button
+                    android:id="@+id/zeroButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="0"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/backButton"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/chargingbutton"
+                    android:backgroundTint="#FFFFFF"
+                    android:fontFamily="@font/maplestorybold"
+                    android:text="←"
+                    android:textColor="#6F2DBD"
+                    android:textSize="18sp"
+                    android:visibility="invisible" />
+            </TableRow>
+        </TableLayout>
+
+        <Button
+            android:id="@+id/fundbutton"
+            android:layout_width="350dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="70dp"
+            android:background="@drawable/chargingbutton"
+            android:backgroundTint="#FFFFFF"
+            android:fontFamily="@font/maplestorylight"
+            android:textStyle="bold"
+            android:text="펀딩"
+            android:textColor="#6F2DBD"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

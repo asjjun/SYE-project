@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/votebtn"
+        android:layout_width="354dp"
+        android:layout_height="54dp"
+        android:text="투표하기"
+        android:textSize="18sp"
+        android:background="@drawable/chargingbutton"
+        android:backgroundTint="#FFFFFF"
+        android:fontFamily="@font/maplestorylight"
+        android:textColor="@color/purple"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.52"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.963" />
+
+    <Button
+        android:id="@+id/voteview"
+        android:layout_width="355dp"
+        android:layout_height="52dp"
+        android:text="나의 투표현황보기"
+        android:background="@drawable/chargingbutton"
+        android:backgroundTint="#FFFFFF"
+        android:textSize="18sp"
+        android:fontFamily="@font/maplestorylight"
+        android:textColor="@color/purple"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.852" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="투표함"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:textColor="#6F2DBD"
+        android:fontFamily="@font/maplestorybold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.046" />
+
+    <TextView
+        android:id="@+id/ConfirmVotingTitle"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/maplestorylight"
+        android:gravity="center"
+        android:textColor="#6F2DBD"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="94dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="110dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/voteview"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ConfirmVotingTitle">
+
+        <RadioButton
+            android:id="@+id/vtradioButton1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:fontFamily="@font/maplestorybold"
+            android:gravity="center"
+            android:text="찬성"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:textColor="#6F2DBD"
+            android:textSize="50sp" />
+
+        <RadioButton
+            android:id="@+id/vtradioButton2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:fontFamily="@font/maplestorybold"
+            android:gravity="center"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:text="반대"
+            android:textColor="#6F2DBD"
+            android:textSize="50sp" />
+
+    </RadioGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
