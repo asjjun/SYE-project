@@ -5,11 +5,6 @@
 <img src="https://img.shields.io/badge/license-mit-green">
 <img src="https://img.shields.io/github/issues/hongjin4790/SYE-project">
 <img src="https://img.shields.io/badge/tag-v1.0.0-blue">
-<img src="https://img.shields.io/badge/android-v4.0.1-blue">
-<br>
-<img src="https://img.shields.io/badge/tomcat-v9.0-blue">
-<img src="https://img.shields.io/badge/eclipse-v4.17.0-blue">
-<img src="https://img.shields.io/badge/mysql-v8.0.21-blue">
 <br><br>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
