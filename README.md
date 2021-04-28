@@ -1,5 +1,6 @@
 # SYE-project
-[![GitHub issues](https://img.shields.io/github/issues/hongjin4790/SYE-project)](https://github.com/hongjin4790/SYE-project/issues)
+
+
 
 ## 1. 프로젝트 소개
  > SYE는 ShareYourEnvironment 환경문제를 공유하고, 직접 실천과 지원을하고, 공공거래장부를 통해 서로를 보안하는 어플입니다.
