@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/license-mit-green">
 <img src="https://img.shields.io/github/issues/hongjin4790/SYE-project">
 <img src="https://img.shields.io/badge/tag-v1.0.0-blue">
+<img src="https://img.shields.io/badge/android-v4.0.1-blue">
  
 <br>
 </p>
