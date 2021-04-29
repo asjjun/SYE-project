@@ -111,6 +111,13 @@ SYE의 대표적인 구성은 총 3단계로 구분이 되는데 환경문제를
 
 화면에 보이는 것과 같이 사소한 환경문제를 해결해 나가고 있는 사람들도 있고, 그런사람들과 함께하고 응원하는 사람들도 있습니다. 그래서 봉사를 계획 & 모집하고  그 사람들에게 지원 할 수 있는 기능을 구현하였습니다.
 (2단계영상)
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/29851704/116550245-7bc60a00-a931-11eb-945d-abaea16fd4cd.gif"/>
+
+
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/29851704/116551399-dd3aa880-a932-11eb-9e05-dd149f463e40.gif"/>
+
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/29851704/116551383-d90e8b00-a932-11eb-9554-a716457a1348.gif"/>
+
 
 
 
