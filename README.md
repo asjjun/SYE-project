@@ -118,7 +118,9 @@ SYE의 대표적인 구성은 총 3단계로 구분이 되는데 환경문제를
 
 <img width="30%" height="30%" src="https://user-images.githubusercontent.com/29851704/116551383-d90e8b00-a932-11eb-9554-a716457a1348.gif"/>
 
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/29851704/116806272-da27fe00-ab66-11eb-8fcc-3bf768c539cf.gif"/>
 
+<img width="30%" height="30%" src="https://user-images.githubusercontent.com/29851704/116806274-dd22ee80-ab66-11eb-9a66-891f230d4abb.gif"/>
 
 
 유저2는 봉사활동계획서를 작성합니다
