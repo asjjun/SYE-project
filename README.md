@@ -36,7 +36,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
-     <li><a href="https://www.youtube.com/watch?v=eYo_AbOF7cA">유튜브 링크</a></li>
+     <li><a href="https://www.youtube.com/watch?v=eYo_AbOF7cA">Youtube Link</a></li>
   </ol>
 </details>
 
@@ -88,8 +88,16 @@ SYE의 대표적인 구성은 총 3단계로 구분이 되는데 환경문제를
 
 =====================================================
 
-화면에 보이는 것과 같이 사소한 환경문제를 해결해 나가고 있는 사람들도 있고, 그런사람들과 함께하고 응원하는 사람들도 있습니다. 그래서 봉사를 계획 & 모집하고  그 사람들에게 지원 할 수 있는 기능을 구현하였습니다.
+
+## 시나리오
+
+사용자는 뉴스피드에서 간단하게 공유한 사진이나 계획서 및 보고서를 확인합니다.
+마음에드는 계획서가 있다면 돈을 충전후 펀딩시스템을 이용합니다. 계획서에 맞는 보고서가 올라온다면 계획한대로 문제해결이 잘 이루어졌는지 투표를 합니다.
+투표결과를 통해 펀딩한 금액을 전달할지 말지 정합니다. 또한 본인이 해결하고 싶은 문제가 있다면 계획서 작성 후 위와 같은 과정을 밟을 수 있습니다.
+
 <br>
+
+아래는 간단한 어플의 UI/UX 및 소개입니다. 자세한 내용을 원하시면 위의 YOUTUBE 링크를 클릭해주세요. 
 
 <h3> ↓↓↓뉴스피드↓↓↓</h3>
 
@@ -107,7 +115,7 @@ SYE의 대표적인 구성은 총 3단계로 구분이 되는데 환경문제를
 <img width="30%" height="30%" src="https://user-images.githubusercontent.com/29851704/116551383-d90e8b00-a932-11eb-9554-a716457a1348.gif"/>
 
   
-<h3> ↓↓↓뉴스피드↓↓↓</h3>
+<h3> ↓↓↓즐겨찾기↓↓↓</h3>
   
 <img width="30%" height="30%" src="https://user-images.githubusercontent.com/29851704/116806274-dd22ee80-ab66-11eb-9a66-891f230d4abb.gif"/>
 
